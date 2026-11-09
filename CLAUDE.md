@@ -22,7 +22,9 @@ Fonte: dossiê exportado do ChatGPT em 08/11/2026. Itens marcados **[a confirmar
 - Os valores de Black Friday 2023 (semestral R$ 499, anual R$ 799) são históricos, não usar como tabela atual.
 - Nome do app, anamnese, nº de alunos, faturamento, metas: **[a confirmar]**.
 - WhatsApp comercial: 21 96487-2187.
-- Instagram: @andersonbretaspersonal (09/11/2026: 1.110 posts, 2.501 seguidores, 2.041 seguindo; categoria "Criador de conteúdo digital"; link da bio aponta direto para o WhatsApp).
+- Instagram: @andersonbretaspersonal (09/11/2026: 1.110 posts, 2.501 seguidores, 2.041 seguindo; link da bio aponta direto para o WhatsApp).
+  - Perfil atualizado em 09/11/2026: nome "Anderson Bretas / Personal Trainer", categoria "Instrutor de fitness", bio opção B, links: landing page (1º) + WhatsApp.
+- Landing page publicada: https://andersonbretas2507-cloud.github.io/Anderson-bretas/ (GitHub Pages, branch `claude/gpt-prompt-exercises-consulting-oh749i`).
   - Insights 10/out–8/nov/2026: 9,1 mil visualizações, 27 novos seguidores, 44 conteúdos. Ficou parado boa parte de 2026; retomando agora.
   - Melhor post recente: "Quer mudar, mas treina igual?" (8.749). Vídeos próprios ~1,2–1,6 mil. Feed mistura imagens de IA com modelos jovens e temas fora do nicho (corrida, tornozeleira). Destaques: Consultoria, Resultados, Depoimentos, Treino Feminino, STE…
 
