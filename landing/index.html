@@ -70,8 +70,10 @@
 
   /* resultados */
   .results{background:var(--bg2)}
-  .grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:18px}
-  .grid .ph{aspect-ratio:3/4}
+  .grid{display:grid;grid-template-columns:1fr;gap:14px;margin-top:18px}
+  .grid .ph{min-height:220px}
+  .grid .ph img{height:auto;object-fit:contain}
+  .grid .ph:has(img:not(.missing)){min-height:0;border:0;background:none}
   .note{font-size:12.5px;color:#8a857b;margin-top:12px}
 
   /* planos */
@@ -180,10 +182,10 @@
     <p class="eyebrow">Resultados de alunas</p>
     <h2>Gente real, treino real.</h2>
     <div class="grid">
-      <div class="ph"><img src="img/aluna-1.jpg" alt="Resultado de aluna" onerror="this.classList.add('missing')"><span>foto real<br>aluna 1</span></div>
-      <div class="ph"><img src="img/aluna-2.jpg" alt="Resultado de aluna" onerror="this.classList.add('missing')"><span>foto real<br>aluna 2</span></div>
-      <div class="ph"><img src="img/aluna-3.jpg" alt="Resultado de aluna" onerror="this.classList.add('missing')"><span>foto real<br>aluna 3</span></div>
-      <div class="ph"><img src="img/aluna-4.jpg" alt="Resultado de aluna" onerror="this.classList.add('missing')"><span>foto real<br>aluna 4</span></div>
+      <div class="ph"><img src="img/aluna-1.jpg" alt="Evolução de aluna em três momentos" loading="lazy" onerror="this.classList.add('missing')"><span>foto real<br>aluna 1</span></div>
+      <div class="ph"><img src="img/aluna-3.jpg" alt="Antes e depois de aluna" loading="lazy" onerror="this.classList.add('missing')"><span>foto real<br>aluna 2</span></div>
+      <div class="ph"><img src="img/aluna-4.jpg" alt="Antes e depois de aluna" loading="lazy" onerror="this.classList.add('missing')"><span>foto real<br>aluna 3</span></div>
+      <div class="ph"><img src="img/aluna-2.jpg" alt="Antes e depois de aluna" loading="lazy" onerror="this.classList.add('missing')"><span>foto real<br>aluna 4</span></div>
     </div>
     <p class="note">Imagens publicadas com autorização, rostos ocultos. Resultados variam de pessoa para pessoa e dependem de consistência no treino, alimentação e descanso.</p>
   </div>
