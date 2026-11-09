@@ -21,7 +21,7 @@
   a{color:inherit}
   .wrap{max-width:560px;margin:0 auto;padding:0 18px}
   section{padding:56px 0}
-  .eyebrow{font:700 12px Montserrat,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--gold)}
+  .eyebrow{font:700 12px Montserrat,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--gold)!important}
   h2{font-size:26px;margin:8px 0 16px}
   p.lead{color:var(--muted)}
   .gold{color:var(--gold2)}
@@ -49,7 +49,7 @@
   .hero h1{font-size:34px;font-weight:800}
   .hero h1 em{font-style:normal;color:var(--gold2)}
   .hero p:not(.eyebrow){margin:14px 0 22px;color:var(--muted);font-size:17px}
-  .hero .photo{aspect-ratio:4/5;margin:26px 0 22px}
+  .hero .photo{aspect-ratio:1/1;margin:26px 0 22px;background:#fff;border:0}
   .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
   .chips span{font-size:13px;padding:6px 12px;border:1px solid var(--line);border-radius:999px;color:var(--muted)}
 
@@ -105,6 +105,7 @@
 
   /* sobre */
   .about .ph{aspect-ratio:1/1;margin-bottom:22px}
+  .about .ph:has(img.missing){display:none}
   .about p{color:var(--muted);margin-top:10px}
 
   /* faq */
@@ -141,7 +142,7 @@
 
     <a class="btn btn-wa" data-wa="Olá, Anderson! Vi sua página e quero saber mais sobre a consultoria."><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2Zm5.5 14.2c-.2.6-1.3 1.2-1.8 1.2-.5.1-1 .2-3.3-.7-2.8-1.1-4.6-4-4.7-4.2-.1-.2-1.1-1.5-1.1-2.9s.7-2 1-2.3c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.2.1.4 0 .5l-.3.5-.4.4c-.1.1-.3.3-.1.6.1.3.6 1.1 1.4 1.8 1 .9 1.8 1.1 2.1 1.3.3.1.4.1.6-.1l.8-1c.2-.3.4-.2.6-.1l1.9.9c.3.1.5.2.5.3.1.2.1.7-.2 1.4Z"/></svg>Falar com o Anderson</a>
 
-    <div class="ph photo"><img src="img/anderson.jpg" alt="Anderson Bretas" onerror="this.classList.add('missing')"><span>sua foto original<br>(img/anderson.jpg)</span></div>
+    <div class="ph photo"><img src="img/anderson.jpg" alt="Anderson Bretas, Personal Trainer" onerror="this.classList.add('missing')"><span>sua foto original<br>(img/anderson.jpg)</span></div>
 
     <div class="chips"><span>Hipertrofia</span><span>Emagrecimento</span><span>Composição corporal</span><span>Força e autonomia</span></div>
   </div>
