@@ -55,6 +55,24 @@ Movimente-se, fique forte e viva melhor. 💪
 **Hashtags:**
 `#musculacaofeminina #mulheres35mais #treinodeforca #emagrecimentosaudavel #composicaocorporal #personaltrainerrj #strengthtraining #womenover35`
 
+### Versão gravada em casa (sala)
+
+Uma tomada só, você falando para a câmera. Os cortes de academia saem de vídeos antigos da galeria. Se não houver, use texto grande na tela.
+
+**Fala (cerca de 30 s, para o teleprompter):**
+> Se você tem mais de 35 e acha que a solução é aumentar o cardio… para.
+> Cardio é ótimo para o coração. Mas sozinho ele não constrói músculo.
+> E, com o passar dos anos, quem não treina força perde massa muscular aos poucos. Menos músculo é menos força, menos disposição e um corpo que muda de forma, mesmo com o peso parecido.
+> A musculação é o que preserva e constrói músculo, e é ela que muda o formato do corpo enquanto você perde gordura.
+> Não é cardio OU musculação. Mas, depois dos 35, a prioridade é ficar forte.
+> Quer um treino montado para você? Link na bio.
+
+**Onde entra cada corte (B-roll da galeria):**
+- "aumentar o cardio" → você ou aluna na esteira/bike
+- "perde massa muscular" → aluna fazendo agachamento ou leg
+- "a musculação" → você corrigindo a execução de uma aluna
+- "link na bio" → logo + slogan
+
 ---
 
 ## TERÇA: Stories de lançamento da página
