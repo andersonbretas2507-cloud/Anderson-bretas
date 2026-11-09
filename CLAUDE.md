@@ -43,7 +43,7 @@ Fonte: dossiê exportado do ChatGPT em 08/11/2026. Itens marcados **[a confirmar
 | Projeto | Situação |
 |---|---|
 | Landing page da consultoria (mobile, fotos reais, rostos de alunos ocultos, sem legendas sobre fotos, botão WhatsApp) | `landing/index.html` com foto e logo; carrossel com 6 fotos autorizadas (`img/resultado-*`); fotos `aluna-2/4` sem autorização confirmada ficam fora do repo; foto em atendimento (frame de Reels, rosto da aluna oculto) em `img/anderson-treino.jpg` |
-| Instagram (Reels, carrosséis, capas) e YouTube (~600 inscritos em jan/2024) | Contínuo |
+| Instagram (Reels, carrosséis, capas) e YouTube (~600 inscritos em jan/2024) | Retomada: roteiros da Semana 1 em `instagram/semana-1.md` |
 | Plataforma de musculação (níveis, volume semanal, treinos em casa de 15 min) | Ideia estruturada |
 | TABATA Step Training (Eduzz, até 30 min, mulheres) | Situação atual [a confirmar] |
 | Planilha de avaliação física (Excel/Numbers) | Versão final [a confirmar] |
