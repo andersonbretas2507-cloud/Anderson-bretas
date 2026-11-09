@@ -11,7 +11,12 @@ Fonte: dossiê exportado do ChatGPT em 08/11/2026. Itens marcados **[a confirmar
 - Entrega: avaliação física (7 dobras + perimetria: braço, antebraço, peitoral, cintura, abdômen, coxa superior, coxa média, panturrilha), treino individualizado, progressão de cargas, treino em app, análise semanal, feedback diário, correção por vídeo, aulas presenciais opcionais.
 - Também atende presencialmente.
 - Público prioritário (set/2026): **mulheres 35+, especialmente 40+**, objetivos hipertrofia e emagrecimento com saúde, força, funcionalidade e qualidade de vida. No YouTube a audiência é majoritariamente masculina.
-- Preços atuais, duração dos planos, pagamento, renovação/cancelamento: **[a confirmar]**. Os valores de Black Friday 2023 (semestral R$ 499, anual R$ 799) são históricos, não usar como tabela atual.
+- Tabela atual (informada em 09/11/2026, arte da landing page):
+  - **Básico R$ 47**: planilha de treino em PDF, acesso ilimitado, suporte por e-mail.
+  - **Intermediário R$ 97**: avaliação física inicial, 3 meses de app, planilha em PDF, suporte pelo app.
+  - **Premium**: R$ 200 mensal · R$ 300 bimestral · R$ 400 trimestral · R$ 600 semestral · R$ 1.000 anual. Inclui consultoria exclusiva, app ilimitado, "plano de nutrição", suporte prioritário.
+  - Básico/Intermediário são pagamento único? Quem faz o "plano de nutrição"? Forma de pagamento, renovação/cancelamento: **[a confirmar]**.
+- Os valores de Black Friday 2023 (semestral R$ 499, anual R$ 799) são históricos, não usar como tabela atual.
 - Nome do app, anamnese, nº de alunos, faturamento, metas: **[a confirmar]**.
 - WhatsApp comercial: 21 96487-2187.
 
@@ -29,7 +34,7 @@ Fonte: dossiê exportado do ChatGPT em 08/11/2026. Itens marcados **[a confirmar
 ## Projetos
 | Projeto | Situação |
 |---|---|
-| Landing page da consultoria (mobile, fotos reais, rostos de alunos ocultos, sem legendas sobre fotos, botão WhatsApp) | Em andamento, faltam preços atuais |
+| Landing page da consultoria (mobile, fotos reais, rostos de alunos ocultos, sem legendas sobre fotos, botão WhatsApp) | Em andamento; preços recebidos, revisar estrutura dos planos |
 | Instagram (Reels, carrosséis, capas) e YouTube (~600 inscritos em jan/2024) | Contínuo |
 | Plataforma de musculação (níveis, volume semanal, treinos em casa de 15 min) | Ideia estruturada |
 | TABATA Step Training (Eduzz, até 30 min, mulheres) | Situação atual [a confirmar] |
