@@ -70,10 +70,14 @@
 
   /* resultados */
   .results{background:var(--bg2)}
-  .grid{display:grid;grid-template-columns:1fr;gap:14px;margin-top:18px}
-  .grid .ph{min-height:220px}
-  .grid .ph img{height:auto;object-fit:contain}
-  .grid .ph:has(img:not(.missing)){min-height:0;border:0;background:none}
+  .carousel{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;margin:18px -18px 0;padding:0 18px;scrollbar-width:none}
+  .carousel::-webkit-scrollbar{display:none}
+  .carousel figure{flex:0 0 88%;scroll-snap-align:center;aspect-ratio:1/1;background:#0a0a0a;border-radius:14px;overflow:hidden;display:flex;align-items:center;justify-content:center}
+  .carousel img{width:100%;height:100%;object-fit:contain;display:block}
+  .dots{display:flex;justify-content:center;gap:8px;margin-top:14px}
+  .dots i{width:8px;height:8px;border-radius:50%;background:#3a3a3a;transition:.2s}
+  .dots i.on{background:var(--gold);width:22px;border-radius:4px}
+  .swipe{font-size:13px;color:var(--muted);margin-top:4px}
   .note{font-size:12.5px;color:#8a857b;margin-top:12px}
 
   /* planos */
@@ -182,12 +186,15 @@
   <div class="wrap">
     <p class="eyebrow">Resultados de alunas</p>
     <h2>Gente real, treino real.</h2>
-    <div class="grid">
-      <div class="ph"><img src="img/aluna-1.jpg" alt="Evolução de aluna em três momentos" loading="lazy" onerror="this.classList.add('missing')"><span>foto real<br>aluna 1</span></div>
-      <div class="ph"><img src="img/aluna-3.jpg" alt="Antes e depois de aluna" loading="lazy" onerror="this.classList.add('missing')"><span>foto real<br>aluna 2</span></div>
-      <div class="ph"><img src="img/aluna-4.jpg" alt="Antes e depois de aluna" loading="lazy" onerror="this.classList.add('missing')"><span>foto real<br>aluna 3</span></div>
-      <div class="ph"><img src="img/aluna-2.jpg" alt="Antes e depois de aluna" loading="lazy" onerror="this.classList.add('missing')"><span>foto real<br>aluna 4</span></div>
+    <p class="swipe">Deslize para ver mais →</p>
+    <div class="carousel" id="car">
+      <figure><img src="img/resultado-1.jpg" alt="Evolução de aluna em três momentos, vista de frente" loading="lazy"></figure>
+      <figure><img src="img/resultado-2.jpg" alt="Evolução de aluna em quatro momentos, vista de costas" loading="lazy"></figure>
+      <figure><img src="img/resultado-3.jpg" alt="Antes e depois de aluna, vista de frente" loading="lazy"></figure>
+      <figure><img src="img/resultado-4.jpg" alt="Antes e depois de aluna, vistas laterais" loading="lazy"></figure>
+      <figure><img src="img/resultado-5.jpg" alt="Antes e depois de aluna, vista de costas" loading="lazy"></figure>
     </div>
+    <div class="dots" id="dots"></div>
     <p class="note">Imagens publicadas com autorização, rostos ocultos. Resultados variam de pessoa para pessoa e dependem de consistência no treino, alimentação e descanso.</p>
   </div>
 </section>
@@ -220,7 +227,7 @@
         <li><b>Análise semanal</b>: eu ajusto cargas e repetições no app</li>
         <li>Correção de execução por vídeo</li>
         <li>Suporte prioritário pelo WhatsApp</li>
-        <li>Planos alimentares elaborados pela nutricionista parceira Tamires Freitas</li>
+        <li>Planos alimentares elaborados pela nutricionista parceira Tamires Freitas (CRN 13100573)</li>
       </ul>
       <a class="btn btn-gold" data-wa-plan="Premium">Quero o Premium</a>
     </div>
@@ -287,7 +294,7 @@
     <details><summary>Nunca treinei ou estou parada há muito tempo. Posso começar?</summary><p>Sim. O treino é montado a partir da sua avaliação e do seu nível atual, com progressão gradual.</p></details>
     <details><summary>Tenho dores ou limitações. O treino serve para mim?</summary><p>Conte tudo na conversa inicial. Os exercícios são adaptados às suas limitações. Em casos que exigem acompanhamento médico ou fisioterapêutico, você será orientada a buscar essa avaliação.</p></details>
     <details><summary>Qual a diferença entre o Intermediário e o Premium?</summary><p>No Intermediário você recebe o treino e controla sua própria progressão. No Premium eu analiso seus registros toda semana, ajusto cargas e repetições e corrijo sua execução por vídeo.</p></details>
-    <details><summary>Os planos alimentares são individualizados?</summary><p>São modelos elaborados pela nutricionista parceira Tamires Freitas para objetivos específicos (ganho de massa e redução de gordura). Para uma dieta totalmente individualizada, é necessária consulta com nutricionista.</p></details>
+    <details><summary>Os planos alimentares são individualizados?</summary><p>São modelos elaborados pela nutricionista parceira Tamires Freitas (CRN 13100573) para objetivos específicos (ganho de massa e redução de gordura). Para uma dieta totalmente individualizada, é necessária consulta com nutricionista.</p></details>
     <details><summary>Em quanto tempo vejo resultado?</summary><p>Muitas alunas percebem mudanças entre 4 e 8 semanas de treino consistente. O ritmo varia de pessoa para pessoa e depende também de alimentação e descanso.</p></details>
     <details><summary>Como é feita a avaliação física?</summary><p>Ela é agendada pelo WhatsApp depois da escolha do plano. Medimos 7 dobras cutâneas e as principais circunferências do corpo para acompanhar sua evolução.</p></details>
   </div>
@@ -345,6 +352,12 @@
   }
   document.querySelectorAll(".periods button").forEach(b => b.addEventListener("click", () => setPeriod(b)));
   setPeriod(document.querySelector('.periods button[aria-pressed="true"]'));
+
+  // carrossel de resultados
+  const car=document.getElementById("car"), dots=document.getElementById("dots");
+  [...car.children].forEach(()=>dots.appendChild(document.createElement("i")));
+  function dot(){const w=car.children[0].offsetWidth+12;const i=Math.round(car.scrollLeft/w);[...dots.children].forEach((d,j)=>d.classList.toggle("on",j===i));}
+  car.addEventListener("scroll",dot,{passive:true});dot();
 </script>
 </body>
 </html>

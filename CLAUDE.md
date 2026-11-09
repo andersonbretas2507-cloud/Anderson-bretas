@@ -17,7 +17,8 @@ Fonte: dossiê exportado do ChatGPT em 08/11/2026. Itens marcados **[a confirmar
   - **Premium**: R$ 200 mensal · R$ 300 bimestral · R$ 400 trimestral · R$ 600 semestral · R$ 1.000 anual. Exclusivo: análise semanal (Anderson ajusta cargas/reps no app), correção por vídeo, suporte prioritário, planos alimentares modelo da nutricionista parceira **Tamires Freitas** (ganho de massa masc./fem., "detox", redução de gordura 45 dias; não individualizados).
   - Básico e Intermediário: **pagamento único**. No Intermediário a aluna controla a própria progressão.
   - Botões: Intermediário e Premium → WhatsApp (avaliação precisa de agendamento). Básico → link de pagamento quando o produto digital existir (ainda não criado).
-  - CRN da Tamires, forma de pagamento, renovação/cancelamento: **[a confirmar]**.
+  - Tamires Freitas: CRN 13100573.
+  - Forma de pagamento, renovação/cancelamento: **[a confirmar]**.
 - Os valores de Black Friday 2023 (semestral R$ 499, anual R$ 799) são históricos, não usar como tabela atual.
 - Nome do app, anamnese, nº de alunos, faturamento, metas: **[a confirmar]**.
 - WhatsApp comercial: 21 96487-2187.
@@ -37,7 +38,7 @@ Fonte: dossiê exportado do ChatGPT em 08/11/2026. Itens marcados **[a confirmar
 ## Projetos
 | Projeto | Situação |
 |---|---|
-| Landing page da consultoria (mobile, fotos reais, rostos de alunos ocultos, sem legendas sobre fotos, botão WhatsApp) | `landing/index.html` com foto e logo; fotos de alunas prontas mas fora do repo (público) até confirmar autorização; falta foto em atendimento |
+| Landing page da consultoria (mobile, fotos reais, rostos de alunos ocultos, sem legendas sobre fotos, botão WhatsApp) | `landing/index.html` com foto e logo; carrossel com 5 fotos autorizadas (`img/resultado-*`); fotos `aluna-2/3/4` sem autorização confirmada ficam fora do repo; falta foto em atendimento |
 | Instagram (Reels, carrosséis, capas) e YouTube (~600 inscritos em jan/2024) | Contínuo |
 | Plataforma de musculação (níveis, volume semanal, treinos em casa de 15 min) | Ideia estruturada |
 | TABATA Step Training (Eduzz, até 30 min, mulheres) | Situação atual [a confirmar] |
