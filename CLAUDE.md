@@ -21,6 +21,7 @@ Fonte: dossiê exportado do ChatGPT em 08/11/2026. Itens marcados **[a confirmar
 - Os valores de Black Friday 2023 (semestral R$ 499, anual R$ 799) são históricos, não usar como tabela atual.
 - Nome do app, anamnese, nº de alunos, faturamento, metas: **[a confirmar]**.
 - WhatsApp comercial: 21 96487-2187.
+- Instagram: @andersonbretaspersonal (09/11/2026: 1.110 posts, 2.501 seguidores, 2.041 seguindo; categoria "Criador de conteúdo digital"; link da bio aponta direto para o WhatsApp).
 
 ## Marca
 - Slogan: "Mantenha-se em movimento, fique forte e viva melhor." / "Keep moving, stay STRONG, live better."
