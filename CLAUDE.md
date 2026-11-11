@@ -17,7 +17,7 @@ Fonte: dossiê exportado do ChatGPT em 08/11/2026. Itens marcados **[a confirmar
   - **Premium**: R$ 200 mensal · R$ 300 bimestral · R$ 400 trimestral · R$ 600 semestral · R$ 1.000 anual. Exclusivo: análise semanal (Anderson ajusta cargas/reps no app), correção por vídeo, suporte prioritário, planos alimentares modelo da nutricionista parceira **Tamires Freitas** (ganho de massa masc./fem., "detox", redução de gordura 45 dias; não individualizados).
   - Básico e Intermediário: **pagamento único**. No Intermediário a aluna controla a própria progressão.
   - Botões: Intermediário e Premium → WhatsApp (avaliação precisa de agendamento). Básico → link de pagamento quando o produto digital existir (ainda não criado).
-  - Tamires Freitas: CRN 13100573.
+  - Tamires Freitas: CRN 13100573. Também é aluna (38 anos, corredora, objetivos: glúteo + corrida 30 km; musculação 5x/sem → 4x, às vezes 3x). Autorizou ser identificada no carrossel de resultado (fotos fev/25, jun/25, jan/26, mai/26).
   - Forma de pagamento, renovação/cancelamento: **[a confirmar]**.
 - Os valores de Black Friday 2023 (semestral R$ 499, anual R$ 799) são históricos, não usar como tabela atual.
 - Nome do app, anamnese, nº de alunos, faturamento, metas: **[a confirmar]**.
@@ -43,7 +43,7 @@ Fonte: dossiê exportado do ChatGPT em 08/11/2026. Itens marcados **[a confirmar
 | Projeto | Situação |
 |---|---|
 | Landing page da consultoria (mobile, fotos reais, rostos de alunos ocultos, sem legendas sobre fotos, botão WhatsApp) | `landing/index.html` com foto e logo; carrossel com 6 fotos autorizadas (`img/resultado-*`); fotos `aluna-2/4` sem autorização confirmada ficam fora do repo; foto em atendimento (frame de Reels, rosto da aluna oculto) em `img/anderson-treino.jpg` |
-| Instagram (Reels, carrosséis, capas) e YouTube (~600 inscritos em jan/2024) | Retomada: roteiros da Semana 1 em `instagram/semana-1.md` |
+| Instagram (Reels, carrosséis, capas) e YouTube (~600 inscritos em jan/2024) | Retomada: roteiros da Semana 1 em `instagram/semana-1.md`; carrossel da Tamires pronto em `instagram/carrossel-tamires/` |
 | Plataforma de musculação (níveis, volume semanal, treinos em casa de 15 min) | Ideia estruturada |
 | TABATA Step Training (Eduzz, até 30 min, mulheres) | Fora de divulgação: destaque "STE…" arquivado em nov/2026 |
 | Planilha de avaliação física (Excel/Numbers) | Versão final [a confirmar] |
