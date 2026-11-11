@@ -26,7 +26,7 @@ Fonte: dossiê exportado do ChatGPT em 08/11/2026. Itens marcados **[a confirmar
   - Perfil atualizado em 09/11/2026: nome "Anderson Bretas / Personal Trainer", categoria "Instrutor de fitness", bio opção B, links: landing page (1º) + WhatsApp.
 - Landing page publicada: https://andersonbretas2507-cloud.github.io/Anderson-bretas/ (GitHub Pages, branch `claude/gpt-prompt-exercises-consulting-oh749i`).
   - Insights 10/out–8/nov/2026: 9,1 mil visualizações, 27 novos seguidores, 44 conteúdos. Ficou parado boa parte de 2026; retomando agora.
-  - Melhor post recente: "Quer mudar, mas treina igual?" (8.749). Vídeos próprios ~1,2–1,6 mil. Feed mistura imagens de IA com modelos jovens e temas fora do nicho (corrida, tornozeleira). Destaques: Consultoria, Resultados, Depoimentos, Treino Feminino, STE…
+  - Melhor post recente: "Quer mudar, mas treina igual?" (8.749). Vídeos próprios ~1,2–1,6 mil. Feed mistura imagens de IA com modelos jovens e temas fora do nicho (corrida, tornozeleira). Destaques (nov/2026): Consultoria, Resultados, Depoimentos, Treino 35+, Sobre mim, Dúvidas, com capas em `instagram/destaques/`
 
 ## Marca
 - Slogan: "Mantenha-se em movimento, fique forte e viva melhor." / "Keep moving, stay STRONG, live better."
@@ -45,7 +45,7 @@ Fonte: dossiê exportado do ChatGPT em 08/11/2026. Itens marcados **[a confirmar
 | Landing page da consultoria (mobile, fotos reais, rostos de alunos ocultos, sem legendas sobre fotos, botão WhatsApp) | `landing/index.html` com foto e logo; carrossel com 6 fotos autorizadas (`img/resultado-*`); fotos `aluna-2/4` sem autorização confirmada ficam fora do repo; foto em atendimento (frame de Reels, rosto da aluna oculto) em `img/anderson-treino.jpg` |
 | Instagram (Reels, carrosséis, capas) e YouTube (~600 inscritos em jan/2024) | Retomada: roteiros da Semana 1 em `instagram/semana-1.md` |
 | Plataforma de musculação (níveis, volume semanal, treinos em casa de 15 min) | Ideia estruturada |
-| TABATA Step Training (Eduzz, até 30 min, mulheres) | Situação atual [a confirmar] |
+| TABATA Step Training (Eduzz, até 30 min, mulheres) | Fora de divulgação: destaque "STE…" arquivado em nov/2026 |
 | Planilha de avaliação física (Excel/Numbers) | Versão final [a confirmar] |
 | Preparação física: Matheus Julião (futebol, assimetria de adutores ~18%, microciclo 4 semanas) | Pontual |
 
