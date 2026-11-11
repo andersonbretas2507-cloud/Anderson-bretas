@@ -17,7 +17,7 @@ Fonte: dossiê exportado do ChatGPT em 08/11/2026. Itens marcados **[a confirmar
   - **Premium**: R$ 200 mensal · R$ 300 bimestral · R$ 400 trimestral · R$ 600 semestral · R$ 1.000 anual. Exclusivo: análise semanal (Anderson ajusta cargas/reps no app), correção por vídeo, suporte prioritário, planos alimentares modelo da nutricionista parceira **Tamires Freitas** (ganho de massa masc./fem., "detox", redução de gordura 45 dias; não individualizados).
   - Básico e Intermediário: **pagamento único**. No Intermediário a aluna controla a própria progressão.
   - Botões: Intermediário e Premium → WhatsApp (avaliação precisa de agendamento). Básico → link de pagamento quando o produto digital existir (ainda não criado).
-  - Tamires Freitas: CRN 13100573. Também é aluna (38 anos, corredora, objetivos: glúteo + corrida 30 km; musculação 5x/sem → 4x, às vezes 3x). Autorizou ser identificada no carrossel de resultado (fotos fev/25, jun/25, jan/26, mai/26).
+  - Tamires Freitas (@nutri_tamires): CRN 13100573. Também é aluna (38 anos, corredora, objetivos: glúteo + corrida 30 km; musculação 5x/sem → 4x, às vezes 3x). Autorizou ser identificada no carrossel de resultado (fotos fev/25, jun/25, jan/26, mai/26).
   - Forma de pagamento, renovação/cancelamento: **[a confirmar]**.
 - Os valores de Black Friday 2023 (semestral R$ 499, anual R$ 799) são históricos, não usar como tabela atual.
 - Nome do app, anamnese, nº de alunos, faturamento, metas: **[a confirmar]**.
