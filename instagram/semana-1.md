@@ -130,21 +130,44 @@ Quer começar a sua evolução? Link na bio.
 ## SEXTA: Reel 2
 ### "Seu glúteo não cresce? Olha esse detalhe."
 
-**Duração:** 25 a 35 s · **Pilar:** técnica · **Gravação:** aluna fazendo afundo ou búlgaro de lado para a câmera, em duas versões, com você corrigindo
+**Duração:** 25 a 30 s · **Pilar:** técnica · **Postar:** sexta, entre 18h e 19h
+**Quem grava:** de preferência uma aluna. Se não der, você mesmo demonstra; funciona igual.
+**Animação de apoio:** `instagram/broll/bulgaro-braco-de-momento.mp4` (7 s, em loop)
 
-**Base técnica (para você explicar com segurança):** no afundo e no búlgaro, inclinar o tronco à frente aumenta o braço de momento da resistência em relação ao quadril. Isso aumenta a demanda dos extensores do quadril (glúteo máximo e posteriores). Com o tronco bem vertical, a demanda vai mais para o joelho (quadríceps). As duas versões são válidas: muda o foco.
+**Base técnica (para você explicar com segurança):** no afundo e no búlgaro, inclinar o tronco à frente leva a linha de ação da carga para longe do quadril. Isso aumenta o braço de momento no quadril e a demanda dos extensores do quadril (glúteo máximo e posteriores). Com o tronco bem vertical, a linha fica perto do quadril e longe do joelho, então a demanda vai mais para o joelho (quadríceps). As duas versões são válidas: o que muda é o foco.
 
-**Capa:**
-> GLÚTEO NÃO CRESCE?
+#### Como posicionar a câmera
+- De lado, na altura do quadril, com o corpo inteiro e o banco aparecendo.
+- Celular na vertical e fixo (tripé ou apoio).
+- Boa luz, fundo limpo, vídeo em 1080p a 30 qps.
 
+#### Cenas para gravar
+| # | Cena | Duração |
+|---|---|---|
+| 1 | Búlgaro com o **tronco reto**: 3 a 4 repetições | 6 s |
+| 2 | Você **apontando o tronco** ou ajustando a aluna | 3 s |
+| 3 | Búlgaro com o **tronco inclinado à frente**: 3 a 4 repetições | 6 s |
+| 4 | A versão inclinada em **câmera lenta** (o Edits faz isso) | 4 s |
+| 5 | Você falando o fechamento para a câmera | 5 s |
+
+#### Montagem
 | Tempo | Imagem | Fala | Texto na tela |
 |---|---|---|---|
-| 0–3 s | Aluna no búlgaro, tronco reto | "Faz búlgaro para glúteo e sente só a coxa?" | **Só sente a coxa?** |
-| 3–8 s | Você apontando o tronco | "O detalhe está aqui: no tronco." | O detalhe é o tronco |
-| 8–15 s | Versão tronco reto | "Com o tronco reto, o esforço vai mais para o joelho. Quem trabalha mais é o quadríceps." | Tronco reto → + quadríceps |
-| 15–24 s | Você ajustando, aluna inclina à frente | "Inclinando um pouco à frente, a carga se afasta do quadril. Aí o glúteo precisa trabalhar mais para estender o quadril." | Tronco inclinado → + glúteo |
-| 24–30 s | Aluna executando bem, em câmera lenta | "Não existe certo ou errado: existe o objetivo. E é isso que eu ajusto no treino de cada aluna." | Técnica a favor do objetivo |
-| Final | Logo | "Quer um treino pensado para o seu objetivo? Link na bio." | Link na bio |
+| 0–3 s | Cena 1 (tronco reto) | "Faz búlgaro para glúteo e sente só a coxa?" | **Só sente a coxa?** |
+| 3–6 s | Cena 2 (você apontando o tronco) | "O detalhe está no tronco." | O detalhe é o tronco |
+| 6–13 s | **Animação do braço de momento** | "Com o tronco reto, a carga fica perto do quadril e longe do joelho: o quadríceps trabalha mais. Inclinando, a carga se afasta do quadril e o glúteo precisa trabalhar mais." | Tronco reto → + quadríceps / Tronco inclinado → + glúteo |
+| 13–20 s | Cenas 3 e 4 (inclinado + câmera lenta) | "Mesmo exercício, outro foco." | Mesmo exercício, outro foco |
+| 20–25 s | Cena 5 (você para a câmera) | "Não existe certo ou errado: existe o seu objetivo. Treino pensado para você? Link na bio." | Link na bio |
+
+#### Capa
+> GLÚTEO NÃO CRESCE?
+
+Feita com um quadro real da cena 3 (tronco inclinado). Mandar o print desse momento para montar a capa nas cores da marca (1080×1920, título dentro da área que aparece no feed).
+
+#### Edição
+- Legendas automáticas revisadas, com fonte reta em negrito, branca ou dourada (combina com a marca).
+- Reduzir ruído e cortar as pausas.
+- Música em alta adicionada no próprio Instagram, com volume baixo.
 
 **Legenda:**
 ```
