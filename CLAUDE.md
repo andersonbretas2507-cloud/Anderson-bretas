@@ -56,6 +56,12 @@ Visão de longo prazo: consultoria personalizada + produtos digitais escaláveis
 - Explicar o mecanismo (biomecânica/fisiologia). Separar evidência, prática e opinião; mostrar controvérsias.
 - Conteúdo de redes: abertura forte e curiosa, depois explicação técnica; CTA para a consultoria; hashtags PT + EN; capas com poucas palavras e sem texto cortado.
 - Imagens: nunca alterar a foto ou o rosto dele, nem o logo; usar fotos reais dos alunos com rosto oculto, sem recorte excessivo; nada com cara de IA quando pedir foto real.
+- Animações de exercício (B-roll de Reels, `instagram/broll/`), padrão a partir de 12/11/2026:
+  - Boneco anatômico **feminino**, branco/cinza-claro, com os músculos desenhados (estilo atlas de anatomia), fundo preto.
+  - **Músculo-alvo em vermelho** enquanto ele é citado na fala; os sinergistas podem aparecer em tom mais suave. O resto do corpo fica neutro.
+  - Equipamento em cinza/metal, com traço limpo.
+  - Não usar mais o boneco laranja simples. A animação do búlgaro (`bulgaro-braco-de-momento.mp4`) fica como está.
+  - Referência de estilo: prints enviados por ele em 12/11/2026 (corpo masculino com bíceps em vermelho; puxada na polia). Usar só o estilo, sem copiar a arte de outros perfis.
 - Entregas prontas para uso e visíveis no celular (nada de ZIP; imagens soltas, tamanho normal).
 - Evitar: texto genérico, repetição de palavras, perguntas sobre o que ele já informou, entregas incompletas.
 - Nunca inventar qualificações, preços, depoimentos ou resultados.
