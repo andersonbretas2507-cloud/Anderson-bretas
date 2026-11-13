@@ -50,7 +50,7 @@ Período: 9 a 12 de novembro de 2026. Este arquivo resume as decisões e as entr
 | Qua | Carrossel "Ela corre 30 km. E faz musculação." (Tamires, 38 anos, 15 meses) | Postado às 18h–19h |
 | Qua/Qui | Stories "Sobre mim", cards de depoimento (Lu e Tamires), caixinha de perguntas | Prontos |
 | Qui | Reel "Nem todo mundo treina para ficar forte": capa trocada para "Força é para todo mundo" + legenda corrigida | Feito |
-| Sex | Reel do glúteo (búlgaro: tronco reto × inclinado) + animação de braço de momento | Falta gravar |
+| Sex | Stories com enquete do búlgaro. Reel do glúteo adiado para abrir a Semana 2 | Reel falta gravar |
 
 ## 7. Arquivos produzidos (neste repositório)
 - `landing/`: página de vendas e imagens
@@ -65,7 +65,7 @@ Período: 9 a 12 de novembro de 2026. Este arquivo resume as decisões e as entr
 - `instagram/broll/`: animações (esteira, leg press, massa muscular ao longo dos anos, búlgaro)
 
 ## 8. Pendências
-- [ ] Gravar o Reel do glúteo e mandar o print para a capa
+- [ ] Gravar o Reel do glúteo (abre a Semana 2) e mandar o print para a capa
 - [ ] Responder as perguntas da caixinha e salvar no destaque Dúvidas
 - [ ] Organizar o destaque Resultados (5 a 10 stories, com a Tamires primeiro)
 - [ ] Confirmar a autorização das fotos com roupa (vestido e camisa xadrez) para a página

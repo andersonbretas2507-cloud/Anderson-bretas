@@ -9,7 +9,7 @@
 | Seg | Reel | Mais cardio não vai mudar seu corpo depois dos 35 |
 | Ter | Stories | Lançamento da página de planos |
 | Qua | Carrossel | Resultado: 4 momentos, mesma aluna |
-| Sex | Reel | Glúteo: o detalhe do tronco no afundo |
+| Sex | Stories | Enquete do búlgaro (o Reel do glúteo passou para a abertura da Semana 2) |
 | Todos | Stories | Roteiro diário (no fim deste arquivo) |
 
 ---
@@ -127,10 +127,12 @@ Quer começar a sua evolução? Link na bio.
 
 ---
 
-## SEXTA: Reel 2
+## REEL DO GLÚTEO (adiado para abrir a Semana 2)
+
+> 13/11: não deu para gravar na sexta. O Reel foi remarcado para o 1º post da Semana 2, gravado como planejado (5 cenas, de lado, de preferência na academia com aluna). Sexta ficou só com stories.
 ### "Seu glúteo não cresce? Olha esse detalhe."
 
-**Duração:** 25 a 30 s · **Pilar:** técnica · **Postar:** sexta, entre 18h e 19h
+**Duração:** 25 a 30 s · **Pilar:** técnica · **Postar:** abertura da Semana 2, entre 18h e 19h
 **Quem grava:** de preferência uma aluna. Se não der, você mesmo demonstra; funciona igual.
 **Animação de apoio:** `instagram/broll/bulgaro-braco-de-momento.mp4` (7 s, em loop)
 
@@ -201,7 +203,7 @@ O objetivo é conexão e conversa no direct, não alcance.
 | Ter | Lançamento da página (sequência acima) |
 | Qua | Caixa de perguntas: "O que mais te trava para treinar?" |
 | Qui | Responder 2 ou 3 perguntas da caixa, em vídeo curto |
-| Sex | Repostar o Reel do glúteo + "Já testou?" |
+| Sex | Enquete: "No búlgaro, você sente mais glúteo ou coxa?" (Glúteo / Coxa / Os dois). Depois: "Semana que vem eu mostro o detalhe que muda isso." |
 | Sáb | Seu treino + uma frase sobre constância |
 | Dom | Teste: "Você treina força pelo menos 2x por semana?" (Sim / Ainda não) |
 
