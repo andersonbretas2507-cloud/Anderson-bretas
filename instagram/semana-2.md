@@ -1,10 +1,39 @@
 # Instagram: Semana 2
 
-## Resumo
-| Dia | Formato | Tema |
+## O que os números mostraram (18/out–16/nov, prints de 17/11)
+| Indicador | Resultado | Leitura |
 |---|---|---|
-| 1º post | Reel | Glúteo: o detalhe do tronco no búlgaro |
-| Próximos | a definir | Planejar com os números da Semana 1 |
+| Visualizações (30 dias) | **28,8 mil** (antes: 9,1 mil) | Alcance triplicou com a retomada |
+| Novos seguidores | 25 (antes: 27) | **Alcance não está virando seguidor**: falta motivo para seguir |
+| Visitas ao perfil → toques no link | 193 → 11 (5,7%) | Bio funciona razoavelmente; o gargalo é antes |
+| Carrossel Tamires (prova) | **12 mil** | Melhor post de longe: resultado real de aluna 35+ |
+| Reel "Mais cardio?" | 1,3 mil | Dor/mito com você no vídeo segue acima da média |
+| Reel do glúteo (19 h) | 778 · 46 curtidas · 4 reposts · 3 envios · **0 comentários** | Bom engajamento, mas ninguém comentou: falta pedir |
+| Stories | 44 a 85 views | Baixo para 2,5 mil seguidores; enquete ajudou pouco |
+| Seguidores mais ativos | **18h–21h** (dom, seg e qui no topo) | Postar no feed só nessa faixa |
+
+**Decisões para a Semana 2**
+1. **Mais prova.** O formato do carrossel da Tamires é o que mais alcança. Repetir com outra aluna autorizada (ou a Tamires parte 2).
+2. **Dar motivo para seguir.** Fechar os Reels com "Sigo mostrando o porquê dos exercícios. Me segue para não perder a parte 2" e criar séries ("Parte 1/2").
+3. **Pedir comentário com pergunta fácil** (uma palavra) em todo Reel. Responder todos na 1ª hora.
+4. **Feed só entre 18h e 20h.** Abandonar o teste de 12h.
+
+## Grade da semana (16 a 22/11)
+| Dia | Formato | Tema / gancho | Pilar | Horário | O que falta |
+|---|---|---|---|---|---|
+| Seg 16 | Reel | "Glúteo não cresce?" (búlgaro) | Técnica | 18h | ✅ Postado |
+| Ter 17 | Stories | Resultado da enquete + "Comenta no Reel: você já fazia inclinado?" | Conversa | ao longo do dia | Postar hoje |
+| Qua 18 | Carrossel | Prova: "X anos, Y meses. Mesma mulher." (nova aluna) **ou** "Como a Tamires treina glúteo e corre 30 km" | Prova | 18h–19h | Escolher aluna + autorização + fotos; se for a Tamires, confirmar com ela a rotina de treino |
+| Qui 19 | Reel | "Agachamento depois dos 40 faz mal pro joelho?" (mito) | Dor e mito | 18h–19h | Gravar: você explicando + agachamento de lado; animação com quadríceps em vermelho |
+| Sex 20 | Stories | Bastidores de treino de aluna (rosto oculto) + caixinha "Qual exercício você não sente funcionar?" | Conversa | ao longo do dia | Gravar no treino |
+| Sáb 21 | Stories | Rotina pessoal leve (seus posts pessoais também alcançam: "dia de folga" teve 1 mil) | Conexão | livre | — |
+| Dom 22 | Reel | "3 erros de quem treina sozinha depois dos 35" + convite para a avaliação | Oferta | 18h–20h | Gravar falando para a câmera; CTA "Link na bio / chama no WhatsApp" |
+
+**CTA de comentário sugerido para os Reels:** "Comenta **JOELHO** se você já sentiu dor no agachamento" (qui) · "Comenta **EU** se você treina sozinha" (dom). Quem comentar recebe uma resposta no direct; é aí que nascem as conversas de venda.
+
+## Pendências que continuam
+- Organizar o destaque **Resultados** (Tamires primeiro): o carrossel dela provou que é o melhor argumento de venda.
+- Responder a caixinha e salvar no destaque **Dúvidas**.
 
 ---
 
