@@ -144,7 +144,7 @@ def main():
     salvar("4-set-2026", base(4, s))
 
     # 5. Os números
-    s = (t(60, 130, "AVALIAÇÃO INICIAL → SET 2026", 26, ORANGE, 800)
+    s = (t(60, 130, "AVALIAÇÃO MAI 2025 → SET 2026", 26, ORANGE, 800)
          + t(60, 205, "OS NÚMEROS", 64, peso=900))
     ch = 860
     cw = int(ch * ar)
