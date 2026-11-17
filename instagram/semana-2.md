@@ -75,8 +75,6 @@ Treino individualizado? Link na bio.
 
 ---
 
----
-
 ## Checklist antes de postar
 - [ ] Capa com até 5 palavras, sem texto cortado no corte 4:5 do feed
 - [ ] Rosto de aluna oculto quando necessário, com autorização
