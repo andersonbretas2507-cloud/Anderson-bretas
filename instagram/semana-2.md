@@ -24,12 +24,58 @@
 | Seg 16 | Reel | "Glúteo não cresce?" (búlgaro) | Técnica | 18h | ✅ Postado |
 | Ter 17 | Stories | Resultado da enquete + "Comenta no Reel: você já fazia inclinado?" | Conversa | ao longo do dia | Postar hoje |
 | Qua 18 | Carrossel | Prova: "X anos, Y meses. Mesma mulher." (nova aluna) **ou** "Como a Tamires treina glúteo e corre 30 km" | Prova | 18h–19h | Escolher aluna + autorização + fotos; se for a Tamires, confirmar com ela a rotina de treino |
-| Qui 19 | Reel | "Agachamento depois dos 40 faz mal pro joelho?" (mito) | Dor e mito | 18h–19h | Gravar: você explicando + agachamento de lado; animação com quadríceps em vermelho |
+| Qui 19 | Reel | "Agachamento estraga o joelho?" (mito) · roteiro abaixo | Dor e mito | 18h–19h | Gravar 3 cenas + fala; animação com quadríceps em vermelho |
 | Sex 20 | Stories | Bastidores de treino de aluna (rosto oculto) + caixinha "Qual exercício você não sente funcionar?" | Conversa | ao longo do dia | Gravar no treino |
 | Sáb 21 | Stories | Rotina pessoal leve (seus posts pessoais também alcançam: "dia de folga" teve 1 mil) | Conexão | livre | — |
 | Dom 22 | Reel | "3 erros de quem treina sozinha depois dos 35" + convite para a avaliação | Oferta | 18h–20h | Gravar falando para a câmera; CTA "Link na bio / chama no WhatsApp" |
 
 **CTA de comentário sugerido para os Reels:** "Comenta **JOELHO** se você já sentiu dor no agachamento" (qui) · "Comenta **EU** se você treina sozinha" (dom). Quem comentar recebe uma resposta no direct; é aí que nascem as conversas de venda.
+
+## REEL DE QUINTA: "Agachamento estraga o joelho?"
+
+**Pilar:** dor e mito · **Formato:** tela dividida (em cima: execução; embaixo: você falando) · **Duração:** 35–40 s · **Postar:** hoje, 18h–19h
+
+### O que gravar
+**Metade de cima (execução, câmera de lado, na altura do quadril, celular fixo na vertical):**
+- **A.** Agachamento (livre ou goblet) de lado, descendo bem, com o joelho passando da ponta do pé. 3 repetições.
+- **B.** Mesmo agachamento, câmera **de frente**: joelho seguindo a direção do pé. Se puder, 1 repetição "errada" com o joelho caindo para dentro, e depois a certa.
+- **C.** Agachamento com **banco/caixa** de referência atrás (amplitude ajustada). 3 repetições.
+
+**Metade de baixo (você falando para a câmera):** mesmo lugar do Reel do búlgaro funciona. Grave a fala inteira de uma vez; se errar, recomece só a frase.
+
+### Roteiro
+| Tempo | Em cima | Fala (embaixo) | Texto na tela |
+|---|---|---|---|
+| 0–3 s | Cena A | "Agachamento depois dos 40 acaba com o joelho?" | AGACHAMENTO ESTRAGA O JOELHO? |
+| 3–8 s | Cena A | "Não. O que machuca é uma carga que o joelho ainda não está preparado para receber." | O problema não é o exercício |
+| 8–18 s | Cena A + **boneca com quadríceps em vermelho** (canto) | "O quadríceps é um dos grandes protetores do joelho. Quanto mais forte, melhor ele absorve impacto. Tanto que, para quem tem artrose, fortalecer a coxa é uma das primeiras recomendações." | Quadríceps forte = joelho protegido |
+| 18–27 s | Cena B | "E o joelho pode passar da ponta do pé, sim. O que importa é ele seguir a direção do pé, sem cair para dentro." | Joelho na direção do pé ✅ |
+| 27–35 s | Cena C | "Sentiu dor? Não abandona, ajusta: diminui a amplitude, usa um banco de referência e sobe a carga aos poucos. Dor que não passa? Procura avaliação." | Ajusta, não abandona |
+| 35–40 s | Cena A | "Comenta JOELHO se você já sentiu dor no agachamento, que eu te respondo. E me segue para não perder a parte 2." | Comenta JOELHO 👇 |
+
+**Base técnica (para falar com segurança):** a carga no joelho cresce com a profundidade e com o quanto o joelho avança, mas o tecido se adapta a carga progressiva. Limitar o joelho atrás da ponta do pé só desloca o esforço para o quadril e a lombar. Em artrose de joelho, o exercício de fortalecimento (incluindo quadríceps) é tratamento de primeira linha nas diretrizes. O cuidado é dose (amplitude, carga, volume), não evitar o movimento.
+
+### Capa
+"AGACHAMENTO ESTRAGA O JOELHO?" sobre um frame seu da cena A (manda o print que eu monto, igual à do búlgaro).
+
+### Legenda
+```
+Agachamento depois dos 40 estraga o joelho? 🦵
+
+Não. O que machuca é uma carga que o joelho ainda não está preparado para receber.
+
+💪 O quadríceps é um dos grandes protetores do joelho: quanto mais forte, melhor ele absorve impacto.
+✅ O joelho pode passar da ponta do pé. O que importa é seguir a direção do pé, sem cair para dentro.
+🔧 Sentiu dor? Ajusta amplitude e carga, não abandona o exercício.
+⚠️ Dor persistente merece avaliação.
+
+Comenta JOELHO se você já sentiu dor no agachamento 👇
+Treino ajustado ao seu corpo e à sua rotina: link na bio.
+
+#agachamento #joelho #musculacaofeminina #mulheres35mais #mulheres40mais #treinodeforca #squat #kneehealth #strengthtraining #fitover40
+```
+
+---
 
 ## Pendências que continuam
 - Organizar o destaque **Resultados** (Tamires primeiro): o carrossel dela provou que é o melhor argumento de venda.
