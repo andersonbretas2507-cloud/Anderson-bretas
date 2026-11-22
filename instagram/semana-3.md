@@ -23,6 +23,8 @@
 4. **Pedir comentário funciona.** Virar padrão em todo post e responder tudo na 1ª hora.
 5. A perda diária de ~1 seguidor é limpeza normal de contas antigas (o perfil segue 2.041). Não vale correr atrás.
 
+> Reel do treino de domingo (Collab com @ingridfmariano) postado no próprio dia, 22/11, 18h–20h.
+
 ## Ações da semana
 - **Fixar 3 posts no topo do perfil:** Tamires, Marina e Agachamento. Quem chega pelo carrossel vê prova + técnica e entende por que seguir.
 - **Reels de teste:** postar o Reel da elevação lateral **como teste** (Painel profissional → Reels de teste). Se passar da média em 24 h, publicar para os seguidores.
@@ -40,7 +42,6 @@
 | Qui 26 | Reel | Respondendo comentário do Agachamento (escolher a melhor dúvida) | Técnica | 18h | Gravar resposta de 20–30 s |
 | Sex 27 | Carrossel ou Reel | **Black Friday da consultoria** | Oferta | 18h | Definir a condição |
 | Sáb 28 | Stories | Bastidores do fim de semana com a Ingrid (marcar a @) | Conexão | livre | — |
-| Dom 29 | Reel (**Collab com @ingridfmariano**) | "Domingo. Nada de treino leve": treino do casal | Conexão / bastidores | 10h–11h | ✅ Pronto (`treino-domingo.mp4`); por música em alta |
 | Dom 29 | Carrossel (Collab) | Resultado de nova aluna autorizada **ou** "Meu treino × treino dela" com a Ingrid | Prova | 18h–20h | Escolher aluna + autorização |
 
 **Meta da semana:** saldo de seguidores positivo (+15) e pelo menos um Reel acima de 2 mil visualizações.
