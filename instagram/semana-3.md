@@ -38,10 +38,12 @@
 |---|---|---|---|---|---|
 | Seg 23 | Reel (**de teste**) | "O jeito certo da elevação lateral" (Ingrid, plano escapular) | Técnica | 18h | ✅ Pronto (vídeo, capa, legenda) |
 | Ter 24 | Stories | Enquete "Seu ombro já doeu treinando?" + caixinha de dúvidas de ombro | Conversa | dia todo | — |
-| Qua 25 | Carrossel | "5 sinais de que seu treino não funciona depois dos 40" (educativo, para salvar) | Dor e mito | 18h | Montar (Claude) |
+| Qua 25 | Carrossel (Collab com @ingridfmariano) | Resultado da Ingrid, 4 momentos (3 da landing + foto nova) | Prova | 18h | Foto nova + datas até seg 23 à noite |
 | Qui 26 | Reel | Respondendo comentário do Agachamento (escolher a melhor dúvida) | Técnica | 18h | Gravar resposta de 20–30 s |
 | Sex 27 | Carrossel ou Reel | **Black Friday da consultoria** | Oferta | 18h | Definir a condição |
 | Sáb 28 | Stories | Bastidores do fim de semana com a Ingrid (marcar a @) | Conexão | livre | — |
-| Dom 29 | Carrossel (Collab com @ingridfmariano) | Ingrid: resultado (se houver foto antiga) **ou** "Mesmo treino? Homem × mulher" | Prova / mito | 18h–20h | Fotos novas da Ingrid (22–23/11) |
+| Dom 29 | Carrossel | "5 sinais de que seu treino não funciona depois dos 40" (educativo, para salvar) | Dor e mito | 18h–20h | Montar (Claude) |
+
+**Lógica da ordem:** prova na quarta (resultado da Ingrid) prepara a oferta da sexta (Black Friday); conteúdo educativo fecha a semana no domingo, dia de pico.
 
 **Meta da semana:** saldo de seguidores positivo (+15) e pelo menos um Reel acima de 2 mil visualizações.
