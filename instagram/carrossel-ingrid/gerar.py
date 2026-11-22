@@ -25,15 +25,16 @@ CORPO = {
     "IMG_5247": (113, 586, 219), "IMG_5598": (113, 613, 216), "IMG_6059": (113, 650, 214), "IMG_6989": (101, 558, 220),
     "IMG_5246": (123, 667, 229), "IMG_6988": (117, 728, 250),
 }
-def recorte(nome, aspecto=0.44, folga=1.16):
-    """Recorta a foto deixando o corpo do mesmo tamanho em todas as datas."""
+def recorte(nome, aspecto=0.44, sem_rosto=0.15):
+    """Recorta do pescoço para baixo (rosto oculto), corpo no mesmo tamanho em todas as datas."""
     im = Image.open(FOTOS / f"{nome}.jpg")
     k = im.height / 800
     topo, pes, cx = (v * k for v in CORPO[nome])
-    h = (pes - topo) * folga
+    pescoco = topo + (pes - topo) * sem_rosto
+    h = (pes - pescoco) * 1.05
     w = h * aspecto
-    cy = (topo + pes) / 2 + (pes - topo) * 0.01
-    box = [cx - w / 2, cy - h / 2, cx + w / 2, cy + h / 2]
+    y0 = pescoco
+    box = [cx - w / 2, y0, cx + w / 2, y0 + h]
     out = im.crop(tuple(int(v) for v in box)).resize((500, int(500 / aspecto)), Image.LANCZOS)
     p = TMP / f"{nome}.jpg"
     out.save(p, quality=93)
