@@ -42,6 +42,6 @@
 | Qui 26 | Reel | Respondendo comentário do Agachamento (escolher a melhor dúvida) | Técnica | 18h | Gravar resposta de 20–30 s |
 | Sex 27 | Carrossel ou Reel | **Black Friday da consultoria** | Oferta | 18h | Definir a condição |
 | Sáb 28 | Stories | Bastidores do fim de semana com a Ingrid (marcar a @) | Conexão | livre | — |
-| Dom 29 | Carrossel (Collab) | Resultado de nova aluna autorizada **ou** "Meu treino × treino dela" com a Ingrid | Prova | 18h–20h | Escolher aluna + autorização |
+| Dom 29 | Carrossel (Collab com @ingridfmariano) | Ingrid: resultado (se houver foto antiga) **ou** "Mesmo treino? Homem × mulher" | Prova / mito | 18h–20h | Fotos novas da Ingrid (22–23/11) |
 
 **Meta da semana:** saldo de seguidores positivo (+15) e pelo menos um Reel acima de 2 mil visualizações.
