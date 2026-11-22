@@ -40,6 +40,7 @@
 | Qui 26 | Reel | Respondendo comentário do Agachamento (escolher a melhor dúvida) | Técnica | 18h | Gravar resposta de 20–30 s |
 | Sex 27 | Carrossel ou Reel | **Black Friday da consultoria** | Oferta | 18h | Definir a condição |
 | Sáb 28 | Stories | Bastidores do fim de semana com a Ingrid (marcar a @) | Conexão | livre | — |
+| Dom 29 | Reel (**Collab com @ingridfmariano**) | "Domingo. Nada de treino leve": treino do casal | Conexão / bastidores | 10h–11h | ✅ Pronto (`treino-domingo.mp4`); por música em alta |
 | Dom 29 | Carrossel (Collab) | Resultado de nova aluna autorizada **ou** "Meu treino × treino dela" com a Ingrid | Prova | 18h–20h | Escolher aluna + autorização |
 
 **Meta da semana:** saldo de seguidores positivo (+15) e pelo menos um Reel acima de 2 mil visualizações.
