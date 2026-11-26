@@ -40,7 +40,7 @@
 | Ter 24 | Stories | Enquete "Seu ombro já doeu treinando?" + caixinha de dúvidas de ombro | Conversa | dia todo | — |
 | Qua 25 | Carrossel (Collab com @ingridfmariano) | Resultado da Ingrid, 4 momentos (3 da landing + foto nova) | Prova | 18h | Foto nova + datas até seg 23 à noite |
 | Qui 26 | Reel | Respondendo comentário do Agachamento (escolher a melhor dúvida) | Técnica | 18h | Gravar resposta de 20–30 s |
-| Sex 27 | Carrossel ou Reel | **Black Friday da consultoria** | Oferta | 18h | Definir a condição |
+| Sex 27 | Reel | **Black Friday**: "Quer saber como isso começa?" (resultados Tamires/Marina/Ingrid + avaliação + oferta) | Oferta | 18h | ✅ Pronto. Oferta: Premium trimestral/semestral/anual leva o dobro do período, só no fim de semana |
 | Sáb 28 | Stories | Bastidores do fim de semana com a Ingrid (marcar a @) | Conexão | livre | — |
 | Dom 29 | Carrossel | "5 sinais de que seu treino não funciona depois dos 40" (educativo, para salvar) | Dor e mito | 18h–20h | Montar (Claude) |
 
